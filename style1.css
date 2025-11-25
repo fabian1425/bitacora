@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'comicalSans';
+    src: url('fonts/comic-sans.ttf');
+}
+
+body{
+    font-family: "comicalSans", sans-serif;
+    background-color: rgb(0,0, 0);
+
+}
+h1{
+    color:white
+}
+#parrafo_EA{
+    color:white
+
+}
